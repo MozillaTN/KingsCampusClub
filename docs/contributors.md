@@ -11,7 +11,7 @@ Here are the list of amazing Mozilla contributors from our club.
 
 <h3>Present Contributors</h3>
 <div class="contributors_wrapper">
-{% for contributor in site.data.present_contributors %}
+{% Barani Tharan %}
 <div class="contributors">
 
 <div class="pic" style="height: 130px; width: 130px">
