@@ -40,6 +40,6 @@ What we gain from the Contributions?</p>
 
 Thanking you !!!!!!!
 
-![MozCafe]({{ site.url }}/assets/Mozcafe.jpg)
+![MozCafe Tanjore]({{ site.url }}/assets/Mozcafe.jpg)
 
 
