@@ -37,7 +37,6 @@ What we gain from the Contributions?</p>
 
 <p>Finally Feedback by the participants are positively and they are inspired about the activities done by Mozilla Tamilnadu. Then we have a Group photo session and the event is concluded at 1:00PM. Its a great session for all the participants and the Speakers also, we share and learn a lot from this session.</p>
 
-
 Thanking you !!!!!!!
 
 
