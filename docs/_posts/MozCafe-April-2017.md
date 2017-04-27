@@ -21,7 +21,6 @@ Whats Open Source?
 Why we contribute to Open Source technology?
 What we gain from the Contributions?</p>
 
-![barani]({{ site.url }}/assets/barani.jpg)
 <p>From 11:00AM-11:45AM Nagarajan gave an introduction about 6 tracks of Mozilla Tamilnadu like,</p>
 
 1. Rust
@@ -42,4 +41,4 @@ What we gain from the Contributions?</p>
 Thanking you !!!!!!!
 
 
-![mozcafeApril]({{ site.url }}/assets/mozcafeApril.jpg)
+![MozCafe]({{ site.url }}/assets/MozCafe.jpg)
