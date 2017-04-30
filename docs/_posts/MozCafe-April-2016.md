@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "MozCafe Tanjore"
+title:  "MozCafe Tanjore-April"
 cover: "../assets/mozilla-tn-bannerc.png"
 #event organiser details
 organiser: "Baranitharan"
@@ -40,6 +40,6 @@ What we gain from the Contributions?</p>
 
 Thanking you !!!!!!!
 
-![MozCafe]({{ site.url }}/assets/Mozcafe.jpg)
+![MozCafeApril]({{ site.url }}/assets/mozcafeApril.jpg)
 
 
