@@ -24,5 +24,5 @@ categories: "blog"
 
 Thank you everyone for participating :)
 Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_54_Beta_3_Testday). Lets continue to participate in future Testdays and help Firefox and it's users.
-The Mozilla QA has published the results of the testday - check out [here](https://quality.mozilla.org/2017/05/firefox-54-beta-3-testday-results/#comment-398)
+The Mozilla QA has published the results of the testday - check out [here](https://quality.mozilla.org/2017/05/firefox-54-beta-3-testday-results)
 <p>Happy Testing!</p>
