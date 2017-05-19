@@ -16,11 +16,11 @@ categories: "blog"
 <p>With Our awesome contributor, the testday was successfully done.</p>
 
 
-- [Nagaraj V](https://twitter.com/baranicool)
+- [Baranitharan](https://twitter.com/baranicool)
 
 
 
 Thank you everyone for participating :)
 Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_54_Beta_7_Testday). Lets continue to participate in future Testdays and help Firefox and it's users.
-The Mozilla QA has published the results of the testday - check out [here]()
+The Mozilla QA has published the results of the testday - check out [here](https://quality.mozilla.org/2017/05/firefox-54-beta-7-testday-results/)
 <p>Happy Testing!</p>
