@@ -7,7 +7,7 @@ cover: "../assets/qmo.jpeg"
 #event organiser details
 organiser: "Baranitharan"
 
-categories: "blog"
+categories: "event"
 ---
 
 **Hello All!**
