@@ -7,7 +7,7 @@ cover: "../assets/mozilla-tn-bannerc.png"
 #event organiser details
 organiser: "Baranitharan"
 
-categories: "blog"
+categories: "event"
 ---
 
 Hello Awesome Mozillians,
