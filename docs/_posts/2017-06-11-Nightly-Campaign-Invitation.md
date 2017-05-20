@@ -39,6 +39,8 @@ Hello Awesome Mozillians,
    <p> 15+ Blog posts </p>
     <p>10+ Bugs will be verify </p>
    <p> 30+ social media posts and tweets</p>
+   
+   For RSVP click [here](https://www.facebook.com/events/442765296083248/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D)
     
    <p> Thank you!!!</p>
     
