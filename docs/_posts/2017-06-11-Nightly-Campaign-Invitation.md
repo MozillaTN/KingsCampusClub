@@ -40,7 +40,7 @@ Hello Awesome Mozillians,
     <p>10+ Bugs will be verify </p>
    <p> 30+ social media posts and tweets</p>
    
-   For RSVP click [here](https://www.facebook.com/events/442765296083248/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22event_calendar%22%2C%22action_history%22%3A%22null%22%7D)
+   For RSVP click [here](www.google.com)
     
    <p> Thank you!!!</p>
     
