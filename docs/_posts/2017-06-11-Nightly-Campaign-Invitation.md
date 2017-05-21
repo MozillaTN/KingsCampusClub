@@ -35,12 +35,12 @@ Hello Awesome Mozillians,
 <p>4:15PM to 4.45PM - Swag Distribution and Group Photo</p>
 
 <p>Metrics of the event:</p>
-   <p> Install nightly browser in 25+ PC's & Laptops</p>
+   <p> Install nightly browser in 25+ PC's and Laptops</p>
    <p> 15+ Blog posts </p>
     <p>10+ Bugs will be verify </p>
    <p> 30+ social media posts and tweets</p>
    
-   For RSVP check out - [here](https://www.facebook.com/events/442765296083248/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22null%22%7D)
+   <p>For RSVP check out - [here](https://goo.gl/forms/ipCKnNd7AbjB5QeL2)</p>
     
    <p> Thank you!!!</p>
     
