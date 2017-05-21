@@ -29,7 +29,7 @@ Hello Awesome Mozillians,
 <p>11.45AM to 12:30PM -  Installing Nightly browser and it tools in all PC and Laptops </p>
 <p>12.30PM to 1.30PM - Lunch break</p>
 <p>1:30 PM to 2:15 PM - explore the Nightly </p>
-<p>2.15PM to 3.00PM - Bug verify and Triage, how to file the bug ? v
+<p>2.15PM to 3.00PM - Bug verify and Triage, how to file the bug ?</p>
 <p>3.00PM to 3.15PM - Small Break</p>
 <p>3.15PM to 4.15PM - 1hr Hackathon</p>
 <p>4:15PM to 4.45PM - Swag Distribution and Group Photo</p>
@@ -39,6 +39,9 @@ Hello Awesome Mozillians,
    <p> 15+ Blog posts </p>
     <p>10+ Bugs will be verify </p>
    <p> 30+ social media posts and tweets</p>
+   
+   
+   
    
 For RSVP check out - [here](https://goo.gl/forms/ipCKnNd7AbjB5QeL2)[here](https://goo.gl/forms/ipCKnNd7AbjB5QeL2)
     
