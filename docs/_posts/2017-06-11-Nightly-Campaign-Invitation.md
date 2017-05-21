@@ -7,7 +7,7 @@ cover: "../assets/inusesfxnightly_fb.jpg"
 #event organiser details
 organiser: "Baranitharan"
 
-categories: "event"
+categories: "blog"
 ---
 Hello Awesome Mozillians,
    <p>We welcome you all to our most awaited event "Firefox Nightly Campaign Tanjore" on 11th July 2017</p>
@@ -40,7 +40,7 @@ Hello Awesome Mozillians,
     <p>10+ Bugs will be verify </p>
    <p> 30+ social media posts and tweets</p>
    
-   <p>For RSVP check out - [here](https://goo.gl/forms/ipCKnNd7AbjB5QeL2)</p>
+For RSVP check out - [here](https://goo.gl/forms/ipCKnNd7AbjB5QeL2)[here](https://goo.gl/forms/ipCKnNd7AbjB5QeL2)
     
    <p> Thank you!!!</p>
     
