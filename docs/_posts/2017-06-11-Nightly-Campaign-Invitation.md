@@ -14,13 +14,13 @@ categories: "event"
 
 <p>Time: 9.30AM to 4.45PM</p>
 
-<p>Venue: Tradent Technologies,
+<p><b>Venue: Tradent Technologies</b>,
        III, 3rd floor, Nallaiyah Complex,
        Railady, Thanjavur.</p>
        
-<p>Hashtags: #FxNightlyTNJ #INUsesFxNightly</p>
+<p>Hashtags: <b>#FxNightlyTNJ</b> <b>#INUsesFxNightly</b></p>
 
-<b><p>Agenda:</p></b> 
+<p><b>Agenda:</b></p> 
 <p>9:30AM to 10:00AM - Registration</p>
 <p>10.00AM to 10.15AM - Welcome Address</p>
 <p>10.15AM to 10.45AM - Vision and Mission of Mozilla</p>
@@ -34,7 +34,7 @@ categories: "event"
 <p>3.15PM to 4.15PM - 1hr Hackathon</p>
 <p>4:15PM to 4.45PM - Swag Distribution and Group Photo</p>
 
-<b><p>Metrics of the event:</p></b>
+<p><b>Metrics of the event:</b></p>
    <p> Install nightly browser in 25+ PC's and Laptops</p>
    <p> 15+ Blog posts </p>
    <p>10+ Bugs will be verify </p>
