@@ -9,7 +9,7 @@ organiser: "Baranitharan"
 
 categories: "event"
 ---
-Hello Awesome Mozillians,
+<b>Hello Awesome Mozillians,</b>
    <p>We welcome you all to our most awaited event "Firefox Nightly Campaign Tanjore" on 11th July 2017</p>
 
 <p>Time: 9.30AM to 4.45PM</p>
@@ -20,7 +20,7 @@ Hello Awesome Mozillians,
        
 <p>Hashtags: #FxNightlyTNJ #INUsesFxNightly</p>
 
-<p>Agenda:</p> 
+<b><p>Agenda:</p></b> 
 <p>9:30AM to 10:00AM - Registration</p>
 <p>10.00AM to 10.15AM - Welcome Address</p>
 <p>10.15AM to 10.45AM - Vision and Mission of Mozilla</p>
@@ -34,7 +34,7 @@ Hello Awesome Mozillians,
 <p>3.15PM to 4.15PM - 1hr Hackathon</p>
 <p>4:15PM to 4.45PM - Swag Distribution and Group Photo</p>
 
-<p>Metrics of the event:</p>
+<b><p>Metrics of the event:</p></b>
    <p> Install nightly browser in 25+ PC's and Laptops</p>
    <p> 15+ Blog posts </p>
    <p>10+ Bugs will be verify </p>
