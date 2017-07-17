@@ -12,7 +12,7 @@ categories: "blog"
 
 **Hello All!**
 
-<p>The  Firefox 54 Beta7 Testday tookplace on  17th 2017. The main focus during the testing was around Net Monitor MVP, Firefox Screenshots.</p>
+<p>The  Firefox 54 Beta7 Testday tookplace on  12th may 2017. The main focus during the testing was around Net Monitor MVP, Firefox Screenshots.</p>
 <p>With Our awesome contributor, the testday was successfully done.</p>
 
 
