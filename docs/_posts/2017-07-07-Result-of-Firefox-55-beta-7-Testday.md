@@ -12,10 +12,7 @@ categories: "blog"
 
 **Hello All!**
 
-<p>The  Firefox 55 Beta7 Testday tookplace on  7th July 2017. The main focus during the testing was around Shutdown Video Decoder, Customization, Bug Verification and Bug Triage.
-
-
-.</p>
+<p>The  Firefox 55 Beta7 Testday tookplace on  7th July 2017. The main focus during the testing was around Shutdown Video Decoder, Customization, Bug Verification and Bug Triage.</p>
 <p>With Our awesome contributor, the testday was successfully done.</p>
 
 
