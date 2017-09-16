@@ -1,3 +1,4 @@
+---
 layout: post
 
 #event information
@@ -7,7 +8,7 @@ cover: "../assets/qmo.jpeg"
 organiser: "Baranitharan"
 
 categories: "blog"
-
+---
 
 **Hello All!**
 
@@ -15,10 +16,10 @@ categories: "blog"
 <p>With Our awesome contributors, the testday was successfully done.</p>
 
 
- [Baranitharan](https://twitter.com/baranicool)
- [Nagarajan](https://twitter.com/rnagarajan96)
- [Bharath](https://twitter.com)
- [Abirami](https://twitter.com/abiramisd)
+- [Baranitharan](https://twitter.com/baranicool)
+- [Nagarajan](https://twitter.com/rnagarajan96)
+- [Bharath](https://twitter.com)
+- [Abirami](https://twitter.com/abiramisd)
 
 
 
