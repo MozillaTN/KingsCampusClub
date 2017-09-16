@@ -18,7 +18,7 @@ categories: "blog"
 
 - [Baranitharan](https://twitter.com/baranicool)
 - [Nagarajan](https://twitter.com/rnagarajan96)
-- [Bharath](https://twitter.com)
+- [Bharath](https://twitter.com/Bharath_gowan?s=08)
 - [Abirami](https://twitter.com/abidevsd)
 
 
