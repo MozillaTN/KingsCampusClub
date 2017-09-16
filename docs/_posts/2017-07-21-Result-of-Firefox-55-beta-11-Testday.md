@@ -12,14 +12,14 @@ categories: "blog"
 
 **Hello All!**
 
-<p>The  Firefox 55 Beta7 Testday tookplace on  21st July 2017. The main focus during the testing was around Screenshots, Simplify Page, Shutdown Video Decoder and Exploratory testing.</p>
+<p>The  Firefox Developer Edition 55 Beta 11 Testday tookplace on  21st July 2017. The main focus during the testing was around Screenshots, Simplify Page, Shutdown Video Decoder and Exploratory testing.</p>
 <p>With Our awesome contributors, the testday was successfully done.</p>
 
 
 - [Baranitharan](https://twitter.com/baranicool)
 - [Nagarajan](https://twitter.com/rnagarajan96)
 - [Bharath](https://twitter.com)
-- [Abirami](https://twitter.com/abiramisd)
+- [Abirami](https://twitter.com/abidevsd)
 
 
 
